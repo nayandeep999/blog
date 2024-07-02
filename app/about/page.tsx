@@ -40,7 +40,7 @@ export default function AboutPage() {
           variants={fadeInUpAnimation}
           className="text-base lg:text-lg text-gray-700 leading-relaxed sm:leading-normal text-center"
         >
-          I'm a passionate developer with a love for creating engaging web
+          I&apos;m a passionate developer with a love for creating engaging web
           experiences. <br />
           This page is built using NextJs, Tailwind CSS, TypeScript, and Framer
           Motion!
